@@ -10,7 +10,7 @@
 	<style>
 	h2 {
 		text-align: center;
-		padding-top: 10px;
+		padding-top: 15px;
 	}
 	body {
 		background-color: #40E0D0;
@@ -19,9 +19,9 @@
    
 
 	<body>
-	<h2><p style="font-family:'Courier New'">REKOD YURAN AHLI</p></h2>
+	<H2><p style="font-family:'Courier New'">REKOD YURAN AHLI</p></h2>
 	<center>
-	<table border=1 cellpadding=5 cellspacing=0 bgcolor=#b4f0ea>
+	<table border=1 cellpadding=5 cellspacing=0 bgcolor=#1E90FF>
 		<tr>
 		<th>ID PELAJAR</th>
 		<th>NAMA PELAJAR</th>
