@@ -58,6 +58,12 @@
 		}
 		?>		  
 	</table>
+		<script
+			src="https://apps.elfsight.com/p/platform.js" defer>
+		</script>
+		<div class="elfsight-app-33139e5a-1090-40c9082c5-fa8aed222df6">
+		</div>
+		
 	<p><a href="tambah.php"><button name='tambah'type="submit">&#43; TAMBAH PELAJAR</button></a></p>
 	
 	</center>
